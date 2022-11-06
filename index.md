@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, welcome to my homepage! My name is Junhui Zhang. I am currently a postdoctoral researcher at Purdue University advised by [Prof. Xiaonan Lu](https://sites.temple.edu/ecexiaonanlu/people/). Meanwhile, I also work closely with [Prof. Wenyuan Tang](https://people.engr.ncsu.edu/wtang8/) at North Carolina State University. I got my Ph.D. degree at Applied Mathematics in 2021 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1147/8803.htm). I was a visiting Ph.D. student at the University of Notre Dame, USA, and the University of Johannesburg, South Africa, in 2019 and 2020, respectively. 
+Hello, welcome to my homepage! My name is Junhui Zhang. I am currently a postdoctoral researcher at Purdue University advised by [Prof. Xiaonan Lu](https://sites.temple.edu/ecexiaonanlu/people/). Meanwhile, I also work closely with [Prof. Wenyuan Tang](https://people.engr.ncsu.edu/wtang8/) at North Carolina State University. I got my Ph.D. degree at Applied Mathematics in 2021 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1147/8803.htm). I was a visiting Ph.D. student at the [Distributed Cooperative Systems Research (DISCOVER) Lab](https://sites.google.com/a/nd.edu/discoverlab/) of University of Notre Dame advised by [Prof. Hai Lin](https://www3.nd.edu/~hlin1/), and the University of Johannesburg advised by [Prof. Qing-Guo Wang](https://www.uj.ac.za/members/prof-qing-guo-wang/) and [Prof. Tshilidzi Marwala](https://en.m.wikipedia.org/wiki/Tshilidzi_Marwala), in 2019 and 2020, respectively. 
 
 I have six years of research experience in the control and optimization fields. My current research interests are developing control, optimization, and machine learning methods for power systems. I am also interested in the control of connected automated vehicles and robotics.
 
@@ -89,7 +89,15 @@ I have six years of research experience in the control and optimization fields. 
   <strong><i style="color:#e74d3c"> IET Control Theory & Applications</i></strong>, 12 (11), 1644-1648, 2018.
   <br>
   
-  
+## AWARDS AND HONORS
+
+- Outstanding Doctoral Dissertation Award by Tongji University, 2021
+- Academic Pioneer Award-The Highest Honor for the Most Outstanding Graduate Students at Tongji University, 2020
+- National Scholarship Award, 2016,2018
+- Honorable Mention in the American Mathematical Contest in Modeling, 2015
+- The First Prize of Henan Province in the Sixth Mathematics Competition of Chinese College Students, 2014
+- The First Prize of Henan Province in the Mathematical Contest in Modeling, 2014
+
 ## ACADEMIC SERVICES
 
 - IEEE Member, 2022-Present  
