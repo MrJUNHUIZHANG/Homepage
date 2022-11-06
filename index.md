@@ -4,47 +4,128 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, welcome to my homepage! My name is Junhui Zhang. I am currently a postdoctoral researcher at Purdue University advised by [Prof. Xiaonan Lu](https://sites.temple.edu/ecexiaonanlu/people/). Meanwhile, I also work closely with [Prof. Wenyuan Tang](https://people.engr.ncsu.edu/wtang8/) at North Carolina State University. I got my Ph.D. degree at Applied Mathematics in 2021 from Tongji University advised by [Prof. Jitao Sun](https://math.tongji.edu.cn/info/1147/8803.htm). I was a visiting Ph.D. student at the University of Notre Dame, USA, and the University of Johannesburg, South Africa, in 2019 and 2020, respectively. 
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I have six years of research experience in the control and optimization fields. My current research interests are developing control, optimization, and machine learning methods for power systems. I am also interested in the control of connected automated vehicles and robotics.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2022]** I served as a Session Chair at the 2022 IEEE IAS Annual Meeting.
+- **[Oct. 2022]** Our work on sparse and safe control for frequency regulation was presented at the 2022 IEEE IAS Annual Meeting!
+- **[Aug. 2022]** I transferred to Purdue University as a Postdoctoral Researcher.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Neural network-based control for RRP-based networked systems under DoS attacks with power interval**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Junhui Zhang**, Qing-Guo Wang, Tshilidzi Marwala, and Jitao Sun
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+   <strong><i style="color:#e74d3c">Automatica</i></strong>, 145:110555, 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Stochastic game in linear quadratic gaussian control for wireless networked control systems under DoS attacks**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+   **Junhui Zhang**, and Jitao Sun
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  <strong><i style="color:#e74d3c">IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></strong>, 52 (2), 902-910, 2022. [ESI Highly Cited Paper]
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+- **Optimal DoS attack schedules on remote state estimation under multi-sensor round-robin protocol**
+  <br>
+   **Junhui Zhang**, Jitao Sun, and Hai Lin
+  <br>
+  <strong><i style="color:#e74d3c">Automatica</i></strong>, 127: 109517, 2021.
+  <br>
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+
+- **Optimal stealthy linear-attack schedules on remote state estimation**
+  <br>
+   **Junhui Zhang**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">IEEE Transactions on Signal Processing</i></strong>, 69, 2807-2817, 2021.
+  <br>
+  
+  
+- **Stabilization of mode-dependent impulsive hybrid systems driven by DFA with mixed-mode effects**
+  <br>
+   **Junhui Zhang**, Anni Li, Wei D. Lu and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">IEEE Transactions on Neural Networks and Learning Systems</i></strong>, 31(5), 1616-1625, 2020.
+  <br>
+
+- **Optimal cooperative multiple-attackers scheduling against remote state estimation of cyber-physical systems**
+  <br>
+   **Junhui Zhang**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">Systems & Control Letters</i></strong>, 144:104771, 2020.
+  <br>
+ 
+- **A game-theoretic approach to multi-channel transmission scheduling for multiple linear systems under DoS attacks**
+  <br>
+   **Junhui Zhang**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">Systems & Control Letters</i></strong>, 133:104546, 2019.
+  <br>
+ 
+- **On finite-time stability of nonautonomous nonlinear systems**
+  <br>
+   **Junhui Zhang**, Junhui Zhang, Qing-Guo Wang, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c"> International Journal of Control</i></strong>, 93 (4), 783-787, 2020.
+  <br>
+  
+- **Exponential synchronization of complex networks with continuous dynamics and Boolean mechanism**
+  <br>
+   **Junhui Zhang**, and Jitao Sun
+  <br>
+  <strong><i style="color:#e74d3c">  Neurocomputing</i></strong>, 307: 146-152, 2018.
+  <br>
+  
+- **Finite-time stability of non-linear systems with impulsive effects due to logic choice**
+  <br>
+   **Junhui Zhang**, Jitao Sun, and Qing-Guo Wang
+  <br>
+  <strong><i style="color:#e74d3c"> IET Control Theory & Applications</i></strong>, 12 (11), 1644-1648, 2018.
+  <br>
+  
+  
+## ACADEMIC SERVICES
+
+- IEEE Member, 2022-Present  
+- IEEE Student Member, 2019-2021 
+- Session Chair of 2022 IEEE IAS Annual Meeting, Oct. 2022
+- Member of IEEE Control Systems Society, 2022-Present
+- Member of IEEE Industry Applications Society, 2022-Present
+- Member of the IAS Industrial Power Converters Committee, 2022-Present
+- Assistant for Conference Organization, Annual Meeting of Shanghai Society of Nonlinear Sciences, Oct. 2019             
+- Assistant for Deputy Editor-in-Chief of ISA Transactions, Nov. 2019- Jul. 2020
+  <br>
+- Journal Reviewer:
+  <br>
+  Automatica
+  <br>
+  IEEE Transactions on Smart Grid
+  <br>
+  IEEE Transactions on Industrial Informatics
+  <br>
+  IEEE Transactions on Systems, Man and Cybernetics: Systems
+  <br>
+  Chaos, Solitons and Fractals
+  <br>
+  ISA Transactions
+  <br>
+  Nonlinear Dynamics
+  <br>
+  Journal of Modelling, Identification and Control
+  <br>
+  Journal of Modern Power Systems and Clean Energy
+  <br>
+  Mathematical Problems in Engineering
+  <br>
+- Conference Reviewer:
+  <br>
+ IEEE Conference on Decision and Control
+  <br>
+  American Control Conference
+  <br>
