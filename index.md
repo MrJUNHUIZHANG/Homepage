@@ -16,7 +16,7 @@ I have six years of research experience in the **control and optimization** fiel
 
 ## Publications
 <h4 style="margin:0 10px 0;">Journal Publications</h4>
-<br>
+
 - **Neural network-based control for RRP-based networked systems under DoS attacks with power interval**
   <br>
   **Junhui Zhang**, Qing-Guo Wang, Tshilidzi Marwala, and Jitao Sun
