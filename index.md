@@ -88,8 +88,7 @@ I have six years of research experience in the **control and optimization** fiel
    **Junhui Zhang**, Jitao Sun, and Qing-Guo Wang
   <br>
   <strong><i style="color:#e74d3c"> IET Control Theory & Applications</i></strong>, 12 (11), 1644-1648, 2018.
-  <br>
-  
+  <br> 
 <h4 style="margin:0 10px 0;">Conference Papers</h4>
 
 - **Sparse and safe frequency regulation for inverter intensive microgrids**
