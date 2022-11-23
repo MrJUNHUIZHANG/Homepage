@@ -95,7 +95,7 @@ I have six years of research experience in the **control and optimization** fiel
   <br>
    **Junhui Zhang**, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang
   <br>
-  <strong><i style="color:#e74d3c"> IEEE IAS Annual Meeting </i></strong>, Detroit, MI, USA, 2022.
+  <strong><i style="color:#0066FF"> IEEE IAS Annual Meeting </i></strong>, Detroit, MI, USA, 2022.
   <br>
   
 ## AWARDS AND HONORS
