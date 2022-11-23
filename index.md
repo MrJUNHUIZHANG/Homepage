@@ -90,12 +90,13 @@ I have six years of research experience in the **control and optimization** fiel
   <strong><i style="color:#e74d3c"> IET Control Theory & Applications</i></strong>, 12 (11), 1644-1648, 2018.
   <br>
   
-<h4 style="margin:0 10px 0;">Conference Papers</h4> 
+<h4 style="margin:0 10px 0;">Conference Papers</h4>
+
 - **Sparse and safe frequency regulation for inverter intensive microgrids**
   <br>
    **Junhui Zhang**, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang
   <br>
-  <strong><i style="color:#e74d3c">  IEEE IAS Annual Meeting </i></strong>, Detroit, MI, USA, 2022.
+  <strong><i style="color:#e74d3c"> IEEE IAS Annual Meeting </i></strong>, Detroit, MI, USA, 2022.
   <br>
   
 ## AWARDS AND HONORS
