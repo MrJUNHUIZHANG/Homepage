@@ -15,7 +15,7 @@ I have six years of research experience in the control and optimization fields. 
 - **[Aug. 2022]** I transferred to Purdue University as a Postdoctoral Researcher.
 
 ## Publications
-<h4 style="margin:0 10px 0;">Senior Program Committee</h4>
+<h4 style="margin:0 10px 0;">Journal Publications</h4>
 <br>
 
 - **Neural network-based control for RRP-based networked systems under DoS attacks with power interval**
@@ -89,6 +89,16 @@ I have six years of research experience in the control and optimization fields. 
    **Junhui Zhang**, Jitao Sun, and Qing-Guo Wang
   <br>
   <strong><i style="color:#e74d3c"> IET Control Theory & Applications</i></strong>, 12 (11), 1644-1648, 2018.
+  <br>
+  
+  <h4 style="margin:0 10px 0;">Conference Papers</h4>
+  <br>
+  
+  - **Sparse and safe frequency regulation for inverter intensive microgrids**
+  <br>
+   **Junhui Zhang**, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang
+  <br>
+  <strong><i style="color:#e74d3c">  IEEE IAS Annual Meeting </i></strong>, Detroit, MI, USA, 2022.
   <br>
   
 ## AWARDS AND HONORS
