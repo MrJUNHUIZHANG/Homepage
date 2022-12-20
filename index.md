@@ -122,6 +122,8 @@ My research interests are  **the interplay between control, optimization and mac
   <br>
   Automatica
   <br>
+  IEEE Transactions on Automatic Control
+  <br>
   IEEE Transactions on Smart Grid
   <br>
   IEEE Transactions on Industrial Informatics
