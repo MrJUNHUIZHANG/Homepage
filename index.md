@@ -71,7 +71,7 @@ My research interests are  **the interplay between control, optimization and mac
  
 - **On finite-time stability of nonautonomous nonlinear systems**
   <br>
-   **Junhui Zhang**, Junhui Zhang, Qing-Guo Wang, and Jitao Sun
+   **Junhui Zhang**, Qing-Guo Wang, and Jitao Sun
   <br>
   <strong><i style="color:#e74d3c"> International Journal of Control</i></strong>, 93 (4), 783-787, 2020.
   <br>
