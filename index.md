@@ -126,6 +126,8 @@ My research interests are  **the interplay between control, optimization and mac
   <br>
   IEEE Transactions on Smart Grid
   <br>
+  IEEE Transactions on Control Systems Technology
+  <br>
   IEEE Transactions on Industrial Informatics
   <br>
   IEEE Transactions on Systems, Man and Cybernetics: Systems
