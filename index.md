@@ -132,6 +132,8 @@ My research interests are  **the interplay between control, optimization and mac
   <br>
   IEEE Transactions on Systems, Man and Cybernetics: Systems
   <br>
+  IEEE Transactions on Industrial Electronics
+  <br>
   Systems & Control Letters
   <br>
   Chaos, Solitons and Fractals
