@@ -148,7 +148,13 @@ My research interests are  **the interplay between control, optimization and mac
   <br>
   Mathematical Problems in Engineering
   <br>
+  Sensors
+  <br>
   Future Transportation
+  <br>
+  Sustainability
+  <br>
+  Entropy
   <br>
 - Conference Reviewer:
   <br>
