@@ -17,6 +17,13 @@ My research interests are  **the interplay between control, optimization and mac
 ## Publications
 <h4 style="margin:0 10px 0;">Journal Publications</h4>
 
+- **A Novel Real-Time Control Approach for Sparse and Safe Frequency Regulation in Inverter Intensive Microgrids**
+  <br>
+  **Junhui Zhang**, Lizhi Ding, Xiaonan Lu, and Wenyuan Tang
+  <br>
+   <strong><i style="color:#e74d3c">IEEE Transactions on Industry Applications</i></strong>, 2023.
+  <br>
+
 - **Neural network-based control for RRP-based networked systems under DoS attacks with power interval**
   <br>
   **Junhui Zhang**, Qing-Guo Wang, Tshilidzi Marwala, and Jitao Sun
